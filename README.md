@@ -358,7 +358,7 @@ https://templatemo.com/tm-531-reflux
             <h2>Mes voyages</h2>
             <div class="line-dec"></div>
             <span
-              >Voici quelques exemple des experience non professional que j'ai pus effectuer ces derniéres années</span
+              >Voici quelques exemple des experiences non professionel que j'ai pus effectuer ces derniéres années</span
             >
           </div>
           <div class="left-image-post">
@@ -371,9 +371,7 @@ https://templatemo.com/tm-531-reflux
               <div class="col-md-6">
                 <div class="right-text">
                   <h4>Saut en Parachute</h4>
-                  <p>
-                    Depuis toujours passionné par les sports extrêmes, j'ai franchi une étape décisive en juillet 2024 en réalisant mon premier saut en parachute. Cette expérience a été absolument incroyable : une montée d'adrénaline inégalée et un sentiment de liberté totale. J'ai adoré chaque instant, et cette aventure a été un véritable déclic pour moi. Désormais, je ne pense qu'à recommencer et à explorer encore plus de sensations fortes.
-                  </p>
+                  <p>Depuis toujours passionné par les sports extrêmes, j'ai franchi une étape décisive en juillet 2024 en réalisant mon premier saut en parachute. Cette expérience a été absolument incroyable : une montée d'adrénaline inégalée et un sentiment de liberté totale. J'ai adoré chaque instant, et cette aventure a été un véritable déclic pour moi. Désormais, je ne pense qu'à recommencer et à explorer encore plus de sensations fortes.</p>
                   <div class="white-button">
                     <a href="#">En voir plus</a>
                   </div>
