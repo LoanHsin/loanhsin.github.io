@@ -365,7 +365,7 @@ https://templatemo.com/tm-531-reflux
             <div class="row">
               <div class="col-md-6">
                 <div class="left-image">
-                  <img src="assets/images/sautenparachute.mov" alt="" />
+                  <img src="assets/images/sautenparachute.mp4" alt="" />
                 </div>
               </div>
               <div class="col-md-6">
@@ -394,7 +394,7 @@ https://templatemo.com/tm-531-reflux
               </div>
               <div class="col-md-6">
                 <div class="right-image">
-                  <img src="assets/images/portaventura.mov" alt="" />
+                  <img src="assets/images/portaventura.mp4" alt="" />
                 </div>
               </div>
             </div>
